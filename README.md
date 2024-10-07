@@ -1,5 +1,6 @@
 # [MythicMobs Addon] MythicMobsPAPI
 
+> Tested MC Version: 1.20.4, 1.20.6, 1.21
 > Native: Java Enviroment 17 ~ 21 - MC Version 1.20.4 <br>
 
 ## Commands
