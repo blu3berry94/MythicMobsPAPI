@@ -10,7 +10,7 @@
 
 ## Dependencies
 
-[![placeholderapi](https://img.shields.io/badge/PlaceholderAPI-2.11.3-blue?style=badge)](https://www.spigotmc.org/resources/6245/) <br>
+[![mythicmobs](https://img.shields.io/badge/MythicMobs-blue?style=badge)](https://mythiccraft.io/index.php?ewr-porta/) <br>
 
 ## Soft Dependencies
 
