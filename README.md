@@ -14,5 +14,5 @@
 
 ## Soft Dependencies
 
-[![placeholderapi](https://img.shields.io/badge/PlaceholderAPI-blue?style=badge)](https://www.spigotmc.org/resources/6245/) <br>
+[![placeholderapi](https://img.shields.io/badge/PlaceholderAPI-blue?style=badge)](https://www.spigotmc.org/resources/6245/)
 [![decentholograms](https://img.shields.io/badge/DecentHolograms-blue?style=badge)](https://www.spigotmc.org/resources/decentholograms-1-8-1-21-1-papi-support-no-dependencies.96927/) <br>
